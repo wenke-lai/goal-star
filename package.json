@@ -41,10 +41,12 @@
     "vitest": "^3.2.3"
   },
   "dependencies": {
-    "@inlang/paraglide-js": "^2.0.0"
+    "@inlang/paraglide-js": "^2.0.0",
+    "svelte-clerk": "^0.13.1"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
+      "@clerk/shared",
       "esbuild"
     ]
   }
