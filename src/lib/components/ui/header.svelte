@@ -7,8 +7,10 @@
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <div class="flex h-16 items-center justify-between">
       <div class="flex items-center space-x-2">
-        <span class="text-2xl">⭐</span>
-        <span class="text-xl font-bold text-gray-900">Goal Star</span>
+        <a href="/" class="flex items-center space-x-2 transition-opacity hover:opacity-80">
+          <span class="text-2xl">⭐</span>
+          <span class="text-xl font-bold text-gray-900">Goal Star</span>
+        </a>
       </div>
 
       <div class="flex items-center space-x-4">
