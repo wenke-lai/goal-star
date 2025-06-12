@@ -103,11 +103,12 @@
             進入儀表板
           </a>
         </SignedIn>
-        <button
+        <a
+          href="/about"
           class="rounded-xl border-2 border-gray-300 px-8 py-4 text-lg font-semibold text-gray-700 transition-all hover:border-gray-400"
         >
           了解更多
-        </button>
+        </a>
       </div>
 
       <!-- Hero Stars Animation -->
